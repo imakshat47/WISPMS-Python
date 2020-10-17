@@ -3,7 +3,7 @@ Warehouse Inventory Sales Purchase Management System (WISPMS) based on Python us
 
 # Python Project using Tkinter and Database
 
-    `"Warehouse Inventory Sales Purchase Management System (WISPMS) "`
+    `Warehouse Inventory Sales Purchase Management System (WISPMS)`
 
 ## Requirements
 ## Python 3.4.X
